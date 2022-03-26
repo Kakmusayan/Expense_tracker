@@ -1,4 +1,4 @@
-# flutter_complete_guide_part_2_expense_tracker
+# Expense_tracker
 
 A new Flutter project.
 
